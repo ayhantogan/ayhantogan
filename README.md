@@ -1,5 +1,3 @@
-<img src="https://![Header](./your-header-image-name.png)" alt="GitHub Kapak Resmi" width="100%">
-
 ## Hi there 👋
 
 <!--
@@ -16,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayhantogan&show_icons=true&theme=radical)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayhantogan&theme=radical)
-
-## 🚀 En Çok Kullandığım Diller
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhantogan&layout=compact&theme=radical)
 
 
