@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-###🚀 I'm currently working as a Full Stack Automation Engineer, specializing in test automation, DevOps, and CI/CD pipelines. I focus on Selenium, Cypress, API testing, and performance testing to ensure software quality and efficiency.
+🚀 I'm currently working as a Full Stack Automation Engineer, specializing in test automation, DevOps, and CI/CD pipelines. I focus on Selenium, Cypress, API testing, and performance testing to ensure software quality and efficiency.
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
