@@ -73,6 +73,19 @@
 
 ---
 
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+---
+
 🌐 Connect with Me  
 📩 **Email:** ayhantogan@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ayhantogan](https://www.linkedin.com/in/ayhan-togan-a789b2106/)  
