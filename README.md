@@ -22,8 +22,8 @@
 <div align="center">
     <a href="https://www.java.com/en/" target="_blank">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
