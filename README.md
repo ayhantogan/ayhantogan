@@ -1,38 +1,24 @@
-# 👋 Hi, I'm Ayhan Togan
+<h1 align="center">Hi there, I'm Ayhan 👋</h1>
+<h3 align="center">Software Developer from Turkey</h3>
 
-## 👨‍💻 About Me
-[A few sentences about your professional background and interests]
+<div align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
-## 🛠 Tech Stack
-- Backend: Java, Spring Boot, [other technologies you use]
-- Frontend: [technologies you use]
-- Database: [databases you work with]
-- Tools & DevOps: Git, [other tools you use]
+### 🔭 I'm currently working on
+- Backend Development with Java & Spring Boot
+- [Your current project name]
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhantogan&show_icons=true&theme=radical)
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhantogan&layout=compact)
-
-## 🌱 Currently Learning
-- [Technologies or skills you're currently learning]
-
-## 🔭 Current Projects
-- [Your current project]
-- [Another project]
-
-## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn profile link]
-- Email: [Your email]
-- Website: [Your website if you have one]
-
-## 🏆 Achievements
-- [Any certifications]
-- [Professional achievements]
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ---
-⭐️ From [ayhantogan](https://github.com/ayhantogan)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayhantogan&show_icons=true&theme=tokyonight" />
+</div>
 
 
 
