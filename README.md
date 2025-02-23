@@ -42,9 +42,9 @@
 ---
 
 ### 🌐 Connect with Me  
-📩 **Email:** ayhantogan@example.com  
-💼 **LinkedIn:** [linkedin.com/in/ayhantogan](https://www.linkedin.com/in/ayhantogan)  
-🌎 **Portfolio:** [ayhantogan.dev](https://ayhantogan.dev) (If available)  
+📩 **Email:** ayhantogan@GMAIL.com  
+💼 **LinkedIn:** [linkedin.com/in/ayhantogan](https://www.linkedin.com/in/ayhan-togan-a789b2106/)  
+🌎 **Portfolio:** [AYHANTOGAN]() (If available)  
 
 ---
 
