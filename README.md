@@ -17,7 +17,7 @@
 
 ---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-    <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/JMeter-F25A00?style=for-the-badge&logo=jmeter&logoColor=white"/>
@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Xray-61A9C6?style=for-the-badge&logo=xray&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </div>
+
 
 
 ---
