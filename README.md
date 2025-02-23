@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me  
+🚀 About Me  
 🔹 **Full Stack Automation Engineer** with expertise in **test automation, DevOps, and CI/CD pipelines**.  
 🔹 Passionate about **scalable automation frameworks, cloud testing, and performance optimization**.  
 🔹 Currently exploring **AI-driven testing and self-healing test automation**.  
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠 Tech Stack  
+🛠 Tech Stack  
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 GitHub Stats  
+📈 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayhantogan&show_icons=true&theme=dark&hide_border=true" width="48%"/>
@@ -41,10 +41,10 @@
 
 ---
 
-### 🌐 Connect with Me  
+🌐 Connect with Me  
 📩 **Email:** ayhantogan@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ayhantogan](https://www.linkedin.com/in/ayhan-togan-a789b2106/)  
-🌎 **Portfolio:** [ayhantogan]() (If available)  
+🌎 **Portfolio:** [ayhantogan]()  
 
 ---
 
