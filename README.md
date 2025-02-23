@@ -42,7 +42,7 @@
 ---
 
 ### 🌐 Connect with Me  
-📩 **Email:** ayhantogan@GMAIL.com  
+📩 **Email:** ayhantogan@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ayhantogan](https://www.linkedin.com/in/ayhan-togan-a789b2106/)  
 🌎 **Portfolio:** [AYHANTOGAN]() (If available)  
 
